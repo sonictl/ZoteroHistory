@@ -1,5 +1,6 @@
 # ZoteroHistory
-Zotero: Add a history feature for paper jumping
+
+## Never get lost! Add a history feature for paper jumping in Zotero!
 
 I often get lost when jumping between papers. After jumping from paper A to paper B, I am unable to go back to paper A if I forget its name.
 

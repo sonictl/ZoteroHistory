@@ -48,7 +48,7 @@ else{
 }
 ```
 
-**step3:** Return to the Zotero main screen and browse papers. Return javascript interface and run once the 2nd code patch every time you switch papers. The javascript interface executes the code once to log a view history.
+**step3:** Return to the Zotero main screen and browse papers. Return javascript interface and run the 2nd code patch every time you switch papers. The javascript interface executes the code once to log a view history.
 
 **step4:** You can go back through the browsing history by searching and entering the key directly.
 

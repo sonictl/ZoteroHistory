@@ -2,11 +2,13 @@
 
 ## Never get lost! Add a history feature for paper jumping in Zotero!
 
-I often get lost when jumping between papers. After jumping from paper A to paper B, I am unable to go back to paper A if I forget its name.
+I often get lost when jumping between papers. After jumping from paper A to paper B, I am unable to go back to paper A if I forget its title.
 
-I want an extension to add a history feature for paper viewing. In the official documentation, I didn't find a way to build extension (how to generate a .zoteroplugin from source code?) for Zotero 5.0. And I failed at compiling and installing the the source code for the hello-world-zotero extension, on Zotero 5.0.
+I want an extension to add a history feature for paper viewing in Zotero. I didn't find a way to build extension (how to generate a .zoteroplugin from source code?) for Zotero 5.0 in the official documentation. And I failed at compiling and installing the the source code for the hello-world-zotero extension, on Zotero 5.0.
 
-Fortunately, with Zotero 5.0's javascript API, I've managed to implement a way of Manually logs the history of the papers viewed. It's not quite user friendly yet, but it barely works.
+Fortunately, with Zotero 5.0's javascript API, I've managed to manually log the paper view history in Zotero. It's not quite user friendly yet, but it barely works.
+
+Tell me if you have better methods!
 
 ### Test environment:
 

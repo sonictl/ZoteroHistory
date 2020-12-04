@@ -12,14 +12,14 @@ Tell me if you have better methods!
 
 ### Test environment:
 
- `Zotero v5.0.87`
- `tested on Mac OSX 10.15.4`
- windows user can try the same way and comment on how it works. thx!
+ - Zotero v5.0.87
+ - tested on Mac OSX 10.15.4
+ - windows user can try the same way and comment on how it works. thx!
 
 ### Useage:
 
 ```
-Zotero` -> `Tools` -> `Develop` -> `Run javascript
+`Zotero` -> `Tools` -> `Develop` -> `Run javascript`
 ```
 
 **step1: ** Initialize the variable by executing the first patch of code:
@@ -48,7 +48,7 @@ else{
 }
 ```
 
-**step3:** Return to the Zotero main screen and browse papers, returning to Run every time you switch papers. The javascript  interface executes the 2nd code once to make a history.
+**step3:** Return to the Zotero main screen and browse papers. Return javascript interface and run once the 2nd code patch every time you switch papers. The javascript interface executes the code once to log a view history.
 
 **step4:** You can go back through the browsing history by searching and entering the key directly.
 

@@ -22,7 +22,7 @@ Tell me if you have better methods!
 `Zotero` -> `Tools` -> `Develop` -> `Run javascript`
 ```
 
-**step1: ** Initialize the variable by executing the first patch of code:
+**step1:** Initialize the variable by executing the first patch of code:
 
 ```javascript
 //=== initialize the history ====
@@ -33,7 +33,7 @@ var key_paper_list = 'List of keys of papers your selected:\n';
 cur_itemKey += '\n';
 ```
 
-**step2: ** Then replace the first patch of code with the below.
+**step2:** Then replace the first patch of code with the below.
 
 ```javascript
 //==== run above once, and modify above 5 lines into: ====
